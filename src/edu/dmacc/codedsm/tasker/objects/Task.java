@@ -16,6 +16,12 @@ public class Task {
         this.assignee = assignee;
     }
 
+        public void TaskAssigner(User assignee, Integer priority ) {
+
+        }
+
+
+
     public String getToDo() {
         return toDo;
     }
@@ -47,6 +53,7 @@ public class Task {
     public void setAssignee(User assignee) {
         this.assignee = assignee;
     }
+
 
     @Override
     public boolean equals(Object o) {
