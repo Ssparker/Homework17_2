@@ -8,7 +8,7 @@ public class User {
     private String lastName;
     private String contactInfo;
 
-    public User(String firstName, String lastName, String contactInfo) {
+    public User(String firstName) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.contactInfo = contactInfo;
