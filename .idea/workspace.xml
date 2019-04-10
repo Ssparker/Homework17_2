@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad209a5-6c1f-41a7-9c65-ec65b1b74258" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskAtOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskInPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskPerformer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/objects/EmailTaskAssigner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/objects/EmailTaskAssigner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/objects/PersonTaskAssigner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/objects/PhoneTaskAssigner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/objects/PhoneTaskAssigner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/objects/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasker/edu/dmacc/codedsm/tasker/objects/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskAtOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskAtOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskInPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskInPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskPerformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskPerformer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="256">
+              <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
               <folding>
                 <element signature="e#211#212#0" expanded="true" />
                 <element signature="e#269#270#0" expanded="true" />
@@ -49,8 +42,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskInPerson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,8 +55,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskAtOffice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,8 +68,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="47" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +88,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/EmailTaskAssigner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
@@ -92,10 +106,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PhoneTaskAssigner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskPerformer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -124,19 +151,19 @@
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/InPersonTaskAssigner.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/DeleteWhenDone.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee1.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskPerformer.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/Runner.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskInPerson.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskAtOffice.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskPerformer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="872" />
-    <option name="y" value="308" />
-    <option name="width" value="945" />
-    <option name="height" value="530" />
+    <option name="x" value="147" />
+    <option name="y" value="437" />
+    <option name="width" value="1612" />
+    <option name="height" value="759" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -178,7 +205,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554926251944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554931846942" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BakeryFinal" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -228,27 +255,26 @@
       <workItem from="1554417798572" duration="16931000" />
       <workItem from="1554688653915" duration="1106000" />
       <workItem from="1554769379847" duration="16630000" />
-      <workItem from="1554914610508" duration="9165000" />
+      <workItem from="1554914610508" duration="12862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43832000" />
+    <option name="totallyTimeSpent" value="47529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20604026" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20604026" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49932885" visible="true" weight="0.3838527" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49932885" visible="true" weight="0.3838527" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -285,42 +311,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PhoneTaskAssigner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/EmailTaskAssigner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskAssigner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -342,42 +336,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskAtOffice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskDelegationTrainee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="47" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PerformTaskInPerson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/PhoneTaskAssigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskAssigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/objects/TaskPerformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/tasker/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
